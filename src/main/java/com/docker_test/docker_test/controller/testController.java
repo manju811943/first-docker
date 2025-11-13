@@ -11,7 +11,7 @@ public class testController {
 
     @GetMapping("/message")
     public String getMessage(){
-        return "Welcome to Bangalore HI hello";
+        return "HI I'm Manjunath!!";
     }
 
 }
